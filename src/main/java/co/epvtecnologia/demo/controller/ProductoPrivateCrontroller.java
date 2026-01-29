@@ -13,7 +13,7 @@ public class ProductoPrivateCrontroller {
 
     @GetMapping
     public ResponseEntity<?> obtenerProducto(){
-        return ResponseEntity.ok("Metodo private product");
+        return ResponseEntity.ok("Metodo private producdt");
     }
 }
 
